@@ -15,7 +15,7 @@ Klaviyo campaign created → template assigned → ready to send
 Script was tested end-to-end. Below is the Klaviyo dashboard showing 
 campaigns created automatically via the API pipeline:
 
-![Klaviyo Dashboard](images/klaviyo-dashboard.png)
+![Klaviyo Dashboard](images/klaviyo--dashboard.png)
 
 ### Sample Generated Emails
 
