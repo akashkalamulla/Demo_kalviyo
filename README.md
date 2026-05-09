@@ -19,6 +19,6 @@ campaigns created automatically via the API pipeline:
 
 ### Sample Generated Emails
 
-![Sample Email 1](images/Email.png.png)
+![Sample Email 1](images/Email.png)
 
-![Sample Email 2](images/Email2.png.png)
+![Sample Email 2](images/Email2.png)
